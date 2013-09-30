@@ -293,7 +293,7 @@ list-style-type:none;
 background-image:none;
 }
 
-.fixed td img,.basics,.time2,.catItms,.itemseparator,.ii,.r3_c .cmpBr,.mi,.lcat .lev1 li span,.bline {
+.fixed td img,.lcat .ttl,.basics,.time2,.catItms,.itemseparator,.ii,.r3_c .cmpBr,.mi,.lcat .lev1 li span,.bline {
 display:none;
 }
 
@@ -308,4 +308,13 @@ margin:0 auto;
 
 body #mainHeader table,.pagecontainer>table>tbody>tr>td>table+table * {
 border:0;
+}
+/* left sidebar */
+.v4acp_head td {
+	background-color: transparent;
+}
+.v4acp_head .v4title h2 {
+	color;
+	text-transform: uppercase;
+	font-weight: bold;
 }
