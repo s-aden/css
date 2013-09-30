@@ -293,8 +293,8 @@ list-style-type:none;
 background-image:none;
 }
 
-.fixed td img,.lcat .ttl,.basics,.time2,.catItms,.itemseparator,.ii,.r3_c .cmpBr,.mi,.lcat .lev1 li span,.bline {
-display:none;
+.fixed td img,.lcat .ttl,.basics,.time2,.catItms,.itemseparator,.ii,.r3_c .cmpBr,.mi,.lcat .lev2 li span,.bline {
+	display:none;
 }
 
 #searchBoxContainer input,td.gallery,table.v4shwc td.lcell {
