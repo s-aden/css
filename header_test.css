@@ -1,5 +1,5 @@
 a .arrow {
-background-image:url(http://www.debenhams.com//wcsstore/DebenhamsStorefrontAssetStore/img/arrow-sprite.png);
+background-image:url(//www.debenhams.com//wcsstore/DebenhamsStorefrontAssetStore/img/arrow-sprite.png);
 background-repeat:no-repeat;
 padding-right:10px;
 background-position:100% -58px;
@@ -50,7 +50,7 @@ position:relative;
 
 #navWrapper ul li a {
 text-decoration:none;
-background:url(http://www.debenhams.com/wcsstore/DebenhamsStorefrontAssetStore/img/divider-grey-1x11.gif) no-repeat scroll 100% 50% transparent;
+background:url(//www.debenhams.com/wcsstore/DebenhamsStorefrontAssetStore/img/divider-grey-1x11.gif) no-repeat scroll 100% 50% transparent;
 color:#4A4A4A;
 display:block;
 font-family:Tahoma,Arial,Sans-serif;
@@ -148,13 +148,13 @@ padding:0;
 #searchBoxContainer {
 width:188px;
 height:28px;
-background:url(http://www.debenhams.com/wcsstore/DebenhamsUKSite/img/header_search_box.png);
+background:url(//www.debenhams.com/wcsstore/DebenhamsUKSite/img/header_search_box.png);
 background-repeat:no-repeat;
 display:block;
 }
 
 #searchButton {
-background:url(http://www.debenhams.com/wcsstore/DebenhamsUKSite/img/header_search_button.png);
+background:url(//www.debenhams.com/wcsstore/DebenhamsUKSite/img/header_search_button.png);
 border:0 none;
 cursor:pointer;
 font-size:10px;
@@ -205,7 +205,7 @@ padding:0;
 
 #mainHeader {
 height:160px;
-background-image:url(http://debenhams.scene7.com/is/image/Debenhams/ebay_header_bground?scl=1);
+background-image:url(//debenhams.scene7.com/is/image/Debenhams/ebay_header_bground?scl=1);
 background-repeat:repeat-x;
 border-bottom:1px solid #CCC;
 }
