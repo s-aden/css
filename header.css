@@ -324,3 +324,7 @@ font-family: Tahoma,Arial,Verdana,Helvetica,sans-serif !important;
 	text-transform: uppercase;
 	font-weight: bold;
 }
+.lcat .lev2 {
+	/* subcat indentation*/
+	padding: 0 0 0 10px;
+}
