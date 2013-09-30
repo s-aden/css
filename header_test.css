@@ -1,0 +1,311 @@
+a .arrow {
+background-image:url(http://www.debenhams.com//wcsstore/DebenhamsStorefrontAssetStore/img/arrow-sprite.png);
+background-repeat:no-repeat;
+padding-right:10px;
+background-position:100% -58px;
+}
+
+div.header {
+height:80px;
+position:relative;
+width:1000px;
+}
+
+* html div.header {
+width:762px;
+}
+
+div.header #logo {
+float:left;
+padding:30px 0 0 22px;
+}
+
+table.grid {
+border-spacing:10px!important;
+}
+
+#navWrapper ul li:hover>.dropdown {
+display:block;
+position:absolute;
+width:100px;
+height:300px;
+z-index:10;
+}
+
+#navWrapper {
+height:30px;
+}
+
+#navWrapper ul {
+height:28px;
+list-style-type:none;
+margin:auto;
+padding:0;
+}
+
+#navWrapper ul li {
+float:left;
+position:relative;
+}
+
+#navWrapper ul li a {
+text-decoration:none;
+background:url(http://www.debenhams.com/wcsstore/DebenhamsStorefrontAssetStore/img/divider-grey-1x11.gif) no-repeat scroll 100% 50% transparent;
+color:#4A4A4A;
+display:block;
+font-family:Tahoma,Arial,Sans-serif;
+font-size:12px;
+font-weight:700;
+line-height:28px;
+padding-left:36px;
+padding-right:35px;
+}
+
+#navWrapper .Sale a {
+background-color:red;
+color:#FFF;
+}
+
+#navWrapper .Blue_Cross a {
+background-color:#005aa8;
+color:#FFF;
+}
+
+#navWrapper ul li:last-child a {
+cursor:pointer;
+background-image:none;
+margin-left:1px;
+margin-top:2px;
+padding-right:32px;
+}
+
+#navWrapper ul li:first-child a {
+padding-left:0;
+}
+
+#lastA {
+color:#FFF;
+}
+
+#offersBarContainer {
+width:1000px;
+clear:both;
+height:27px;
+position:absolute;
+}
+
+#offersBarContainer ul {
+height:25px;
+margin:0;
+padding:0;
+}
+
+#offersBarContainer #sales_bar li#sale1 {
+border-left:0 none;
+}
+
+#headerWrapper #offersBarContainer #sales_bar li {
+border-left:1px solid #ECF7F6;
+border-right:1px solid #BBBDBF;
+height:23px;
+line-height:23px;
+width:331px;
+float:left;
+list-style-type:none;
+text-align:center;
+margin:2px 0 0;
+}
+
+#headerWrapper #offersBarContainer #sales_bar #sale1 {
+border-left:0;
+}
+
+#offersBarContainer #sales_bar li a {
+display:block;
+font-family:Tahoma,Arial,sans;
+font-size:11px;
+font-weight:700;
+height:23px;
+color:#366fc0;
+text-decoration:none;
+}
+
+#offersBarContainer #sales_bar li {
+border-color:#FFF;
+}
+
+.theSearchBox {
+background:none repeat scroll 0 0 transparent;
+font-size:13px;
+height:24px;
+line-height:20px;
+outline:medium none;
+width:173px;
+margin:0!important;
+padding:0;
+}
+
+#searchBoxContainer {
+width:188px;
+height:28px;
+background:url(http://www.debenhams.com/wcsstore/DebenhamsUKSite/img/header_search_box.png);
+background-repeat:no-repeat;
+display:block;
+}
+
+#searchButton {
+background:url(http://www.debenhams.com/wcsstore/DebenhamsUKSite/img/header_search_button.png);
+border:0 none;
+cursor:pointer;
+font-size:10px;
+height:27px;
+width:51px;
+margin-left:-4px;
+margin-top:-3px;
+background-repeat:no-repeat;
+}
+
+#searchButton:active {
+border:0 none;
+cursor:pointer;
+font-size:10px;
+height:27px;
+width:51px;
+margin-left:-4px;
+margin-top:-3px;
+background-repeat:no-repeat;
+}
+
+#searchButton:hover {
+background-position:0 -38px;
+border:0 none;
+cursor:pointer;
+font-size:10px;
+height:27px;
+width:51px;
+margin-left:-4px;
+margin-top:-3px;
+background-repeat:no-repeat;
+}
+
+#controlTWidth table {
+width:150px;
+background:transparent;
+position:absolute;
+top:26px;
+right:300px;
+}
+
+#contentPanel {
+width:1000px;
+float:left;
+margin:0;
+padding:0;
+}
+
+#mainHeader {
+height:160px;
+background-image:url(http://debenhams.scene7.com/is/image/Debenhams/ebay_header_bground?scl=1);
+background-repeat:repeat-x;
+border-bottom:1px solid #CCC;
+}
+
+.fixed td:first-child {
+width:0;
+height:0;
+}
+
+.gallery {
+padding-right:5px!important;
+}
+
+.bline {
+height:0;
+}
+
+.ttl a {
+color:#000;
+}
+
+.bin {
+font-weight:700;
+}
+
+.v4baccent {
+height:0!important;
+}
+
+.dropdown {
+display:none;
+background:none repeat scroll 0 0 #F4F3F4;
+border:1px solid #A7A9AC;
+height:300px;
+width:100px;
+}
+
+#navWrapper .dropdown li {
+float:none;
+}
+
+#navWrapper .dropdown li:last-child a {
+margin:0;
+}
+
+#navWrapper .dropdown li a {
+color:#222;
+background-image:none;
+border:0;
+font-weight:400;
+padding:0;
+}
+
+#navWrapper .dropdown a:hover {
+background:#c3c2c3;
+}
+
+#navWrapper ul li:last-child,#offersBarContainer #sales_bar li#sale3 {
+border-right:0 none;
+}
+
+.details a,.cc a {
+color:#000!important;
+text-decoration:none!important;
+}
+
+.lcat .lev1 ul li a {
+text-transform:none;
+font-weight:400;
+}
+
+.lcat .lev1 a,.lcat .lev1 li span {
+font-family:Tahoma,Arial,Verdana,Helvetica,sans-serif;
+color:#333;
+font-size:11px;
+text-transform:uppercase;
+font-weight:700;
+}
+
+.lcat .lev2 li {
+list-style-type:none;
+}
+
+.r3_t,.r3_t b,.r3_bl,.r3_bl b,.whiter-rcp .whiter-n .whiter-w,.whiter-rcp .whiter-n .whiter-e {
+background-image:none;
+}
+
+.fixed td img,.basics,.time2,.catItms,.itemseparator,.ii,.r3_c .cmpBr,.mi,.lcat .lev1 li span,.bline {
+display:none;
+}
+
+#searchBoxContainer input,td.gallery,table.v4shwc td.lcell {
+border:0!important;
+}
+
+#headerWrapper,.pagecontainer>table>tbody>tr>td>table+table {
+width:1000px;
+margin:0 auto;
+}
+
+body #mainHeader table,.pagecontainer>table>tbody>tr>td>table+table * {
+border:0;
+}
