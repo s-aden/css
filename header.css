@@ -1,5 +1,5 @@
 a .arrow {
-background-image:url(//www.debenhams.com//wcsstore/DebenhamsStorefrontAssetStore/img/arrow-sprite.png);
+background-image:url(//www.debenhams.com/wcsstore/DebenhamsStorefrontAssetStore/img/arrow-sprite.png);
 background-repeat:no-repeat;
 padding-right:10px;
 background-position:100% -58px;
@@ -316,7 +316,7 @@ font-family: Tahoma,Arial,Verdana,Helvetica,sans-serif !important;
 	color: #333
 }
 .r3_c #fpcap .smuy .matchClass {
-		width: 70px;
+		width: 73px;
 		overflow: hidden;
 		display: inline-block
 }
