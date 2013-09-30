@@ -320,3 +320,7 @@ font-family: Tahoma,Arial,Verdana,Helvetica,sans-serif !important;
 		overflow: hidden;
 		display: inline-block
 }
+.v4acp_head .v4title h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
