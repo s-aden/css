@@ -347,11 +347,11 @@ font-family: Tahoma,Arial,Verdana,Helvetica,sans-serif !important;
 }
 
 .image {
-	width: 190px;
-	height: 192px;
+	width: 190px !important;
+	height: 192px !important;
 }
 .image img {
-	width: 190px;
-	height: 192px;
+	width: 190px !important;
+	height: 192px !important;
 }
 
