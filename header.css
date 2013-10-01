@@ -365,6 +365,9 @@ table.gallery div.ttl {
 table.gallery td.picture div.image {
 	margin: 0;
 }
+table.gallery td.picture {
+	padding: 0;
+}
 
 /* end exprement */
 
